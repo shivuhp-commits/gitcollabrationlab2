@@ -1,2 +1,0 @@
-# gitcollabrationlab2
-public
